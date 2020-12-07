@@ -1,0 +1,19 @@
+.transcription ruby rt {
+    -webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    filter: blur(4px);
+}
+
+.transcription ruby rt:hover{
+    -webkit-filter: blur(0px);
+    filter: blur(0px)
+}
+
+.translation .text {
+    -webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    filter: blur(4px);
+}
+
+.translation .text:hover{
+    -webkit-filter: blur(0px);
+    filter: blur(0px)
+}
